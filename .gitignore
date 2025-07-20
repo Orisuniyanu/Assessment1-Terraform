@@ -1,6 +1,0 @@
-*.tfvars
-.terraform/                       
-*.tfstate                        
-*.tfstate.*                      
-*.hcl                       
-admin.conf
